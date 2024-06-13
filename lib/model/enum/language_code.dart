@@ -24,5 +24,5 @@ enum LanguageCode {
   final String localeCode;
   final String value;
 
-  static const defaultValue = ja;
+  static const defaultValue = en;
 }
