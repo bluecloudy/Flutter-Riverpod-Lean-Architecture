@@ -59,10 +59,10 @@ Including Unit Tests, Widget Tests, Golden Tests, and Integration Tests
 - Current Project Settings:
     - min Android OS: 26 (android 8)
     - min iOS OS: 13.0
-    - Production Bundle id (application id): jp.flutter.app
+    - Production Bundle id (application id): io.blackcats.flutter
 
 - Change flavor settings:
-    - Replace all `jp.flutter.app` by your project bundle id (application id)
+    - Replace all `io.blackcats.flutter` by your project bundle id (application id)
     - Config flavors for Android at [build.gradle](android/build.gradle)
         - Application name: find and change values of: `manifestPlaceholders["applicationName"]`
         - Version name: find and change values of: `versionName`

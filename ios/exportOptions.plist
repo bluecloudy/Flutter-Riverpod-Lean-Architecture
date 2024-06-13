@@ -8,7 +8,7 @@
 	<string>AB69DU2Z36</string>
 	<key>provisioningProfiles</key>
 	<dict>
-		<key>jp.flutter.app</key>
+		<key>io.blackcats.flutter</key>
 		<string>distribution_flutter_codebase</string>
 	</dict>
 </dict>

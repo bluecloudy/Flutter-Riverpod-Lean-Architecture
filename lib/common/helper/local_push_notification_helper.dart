@@ -14,7 +14,7 @@ final localPushNotificationHelperProvider = Provider<LocalPushNotificationHelper
 
 @LazySingleton()
 class LocalPushNotificationHelper with LogMixin {
-  static const _channelId = 'jp.flutter.app';
+  static const _channelId = 'io.blackcats.flutter';
   static const _channelName = 'flutter';
   static const _channelDescription = 'flutter';
   static const _androidDefaultIcon = 'ic_app_notification';

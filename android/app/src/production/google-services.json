@@ -1,36 +1,26 @@
 {
   "project_info": {
-    "project_number": "598926766937",
-    "project_id": "nals-flutter-prod",
-    "storage_bucket": "nals-flutter-prod.appspot.com"
+    "project_number": "831970164486",
+    "project_id": "blackcats-flutter",
+    "storage_bucket": "blackcats-flutter.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:598926766937:android:9592c6941fa17be8aed248",
+        "mobilesdk_app_id": "1:831970164486:android:b5971a19f0cc12b2a1e887",
         "android_client_info": {
-          "package_name": "jp.flutter.app"
+          "package_name": "io.blackcats.flutter.dev"
         }
       },
-      "oauth_client": [
-        {
-          "client_id": "598926766937-time4t4ei8fdchtocdrlnidbais7l4st.apps.googleusercontent.com",
-          "client_type": 3
-        }
-      ],
+      "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyCze5HFUzvhuLptqlcAIWk2n2KmZs_irwE"
+          "current_key": "AIzaSyArdyNX2wGApgknDJf2wlk0w7oV0gH9oXE"
         }
       ],
       "services": {
         "appinvite_service": {
-          "other_platform_oauth_client": [
-            {
-              "client_id": "598926766937-time4t4ei8fdchtocdrlnidbais7l4st.apps.googleusercontent.com",
-              "client_type": 3
-            }
-          ]
+          "other_platform_oauth_client": []
         }
       }
     }

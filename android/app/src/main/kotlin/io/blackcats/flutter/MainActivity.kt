@@ -1,4 +1,4 @@
-package jp.flutter.app
+package io.blackcats.flutter
 
 import android.os.Bundle
 import io.flutter.embedding.android.FlutterActivity

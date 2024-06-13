@@ -34,7 +34,7 @@ platform :ios do
   TEST_FLIGHT_EXTERNAL_GROUPS = "testers",
   STG_APPLE_ID = "1111",
   TEAM_ID = "<TEAM_ID>"
-  STG_BUNDLE_ID = "jp.flutter.app.stg"
+  STG_BUNDLE_ID = "io.blackcats.flutter.stg"
 
   # firebase
   DEV_APP_ID = "1:553358319716:ios:25772305fb757cbe0f3f71"
